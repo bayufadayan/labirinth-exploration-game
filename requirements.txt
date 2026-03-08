@@ -1,3 +1,4 @@
 # Requirements for labirinth-exploration-game
 ursina
 numpy
+pyinstaller
