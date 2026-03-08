@@ -28,7 +28,7 @@ def update():
     
     else :
         my_sword.rotation = (0, 0, 68)
-        my_sword.y = 4,
+        my_sword.y = 4
     
     R = randint(0, 255)
     G = randint(0, 255)
@@ -90,7 +90,7 @@ def update():
     pluto.z = np.sin(t+angle*8)*radius_9  
 
 # ********************************************************************************
-app = Ursina()
+app = Ursina(fullscreen=True)
 
 
 # *********SOLAR SISTEM
