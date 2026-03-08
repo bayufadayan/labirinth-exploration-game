@@ -59,7 +59,7 @@ pyinstaller --noconfirm --distpath build --workpath build\work --add-data "asset
 > Note: Jika mengalami masalah missing assets/models/font saat menjalankan exe, pastikan folder `assets` dan folder internal Ursina ikut disimpan di samping executable. Build yang disertakan pada repo sudah meng-handle bundling tersebut.
 
 ## Release
-- Link release: (tambah link di sini)
+- Link release: [(Portable Game)](https://drive.google.com/file/d/1VTXRFFgoBjYuxSHmARByJB0EGr733m9q/view?usp=sharing)
 
 ---
 Jika butuh saya bisa bantu membuat release zip atau menambahkan instruksi platform spesifik.
